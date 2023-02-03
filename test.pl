@@ -1,0 +1,1 @@
+d:\apps\strawberry\perl\bin\perl.exe -NCPAN - "CPAN->upgrade('/^Padre/')"
